@@ -36,10 +36,10 @@ I decided work with the features:
 features = ['amount','oldbalanceOrg', 'newbalanceOrig', 'type, 'oldbalanceDest', 'newbalanceDest', 'isFraud']
 
 The correlation of the features with the 
-![Correlation](download (5).png)
+![Correlation](corr.png)
 
 ### Model results
 
 ![Correlation](download (18).png)
-![Correlation](scores.png)
+![Correlation](graph.png)
 
