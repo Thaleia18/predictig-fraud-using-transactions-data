@@ -40,6 +40,6 @@ The correlation of the features with the
 
 ### Model results
 
-![Correlation](download (18).png)
+![scores](scores.png)
 ![Correlation](graph.png)
 
